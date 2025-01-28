@@ -21,7 +21,6 @@
   <a href = "mailto:julia1m1souza@gmail.com"><img aling="center" alte="ju-python" height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <a href = "https://www.instagram.com/julixx_jptr/"><img aling="center" alte="ju-python" height="20" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 
-  ![Snake animation](https://github.com/juliams2210/juliams2210/blob/output/github-contribution-grid-snake.svg)
-
+  
 </div>
 
