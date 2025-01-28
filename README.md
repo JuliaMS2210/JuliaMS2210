@@ -2,7 +2,7 @@
 
 - ✨ Em busca de um estágio
 - 🌱 Estudando python
-- 📲 contato: julia1m1souza@gmail.com
+- 📲 Contato: julia1m1souza@gmail.com
 
 <div>
   
