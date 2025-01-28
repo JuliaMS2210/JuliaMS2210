@@ -1,8 +1,9 @@
 ## Júlia Miranda Souza
 
-- ✨ Em busca de um estágio
-- 🌱 Estudando python
-- 📲 Contato: julia1m1souza@gmail.com
+
+- 🎓 Cursando engenharia da computação
+- 🔍 Em busca de um estágio
+- 🐍 Estudando python
 
 <div>
   
