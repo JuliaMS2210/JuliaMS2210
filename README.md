@@ -20,6 +20,9 @@
 <div> 
   <a href = "https://www.linkedin.com/in/júlia-miranda-souza-355280282/"><img align="center" alte="ju-python" height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <a href = "mailto:julia1m1souza@gmail.com"><img align="center" alte="ju-python" height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img align="center" alte="thiago-html" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alte="thiago-css" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+   <img align="center" alte="thiago-javascript" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 
   
