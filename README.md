@@ -3,7 +3,7 @@
 
 - 🎓 Cursando engenharia da computação
 - 🔍 Em busca de um estágio
-- 🐍 Estudando python
+
 
 <div>
   
