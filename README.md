@@ -26,7 +26,8 @@
   <a href = "https://www.linkedin.com/in/júlia-miranda-souza-355280282/"><img align="center" alte="ju-python" height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <a href = "mailto:julia1m1souza@gmail.com"><img align="center" alte="ju-python" height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
-
-  
 </div>
 
+<img src="https://raw.githubusercontent.com/JuliaMS2210/JuliaMS2210/output/snake.svg" alt="Snake animation" />
+
+###
