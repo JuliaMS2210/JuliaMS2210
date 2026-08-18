@@ -12,9 +12,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alte="ju-python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alte="ju-javascript" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alte="ju-html" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alte="ju-css" height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alte="java" height="33" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwiki.thema.inf.br%2Fwiki%2Fhelp%2FSpecial%3APrint%3Ftopic%3DConfiguracaoJava&ved=0CBYQjRxqFwoTCMDN_5zHqpYDFQAAAAAdAAAAABAG&opi=89978449)" />
   <img align="center" alte="ju-excel" height="40" src="https://github.com/user-attachments/assets/d27147a3-2df0-4442-ac09-a7bdf429c660">
 
   <img align="right" alte="ju-gif" height="120" src="https://i.gifer.com/2iFb.gif">
