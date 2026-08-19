@@ -5,11 +5,6 @@
 - 🔍 Em busca de um estágio
 
 
-<div>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliams2210&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliams2210&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt)](https://github.com/juliams2210/github-readme-stats)
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alte="ju-python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
    <img align="center" alte="ju-java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
