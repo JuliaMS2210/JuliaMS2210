@@ -12,7 +12,7 @@
   <img align="center" alte="ju-canva" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
   <img align="center" alte="ju-vscode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 
-  <img align="right" alte="ju-gif" height="120" src="https://i.gifer.com/2iF.gif">
+  <img align="right" alte="ju-gif" height="120" src="https://i.gifer.com/2iFb.gif">
   
 </div>
 
